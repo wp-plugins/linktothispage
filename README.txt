@@ -22,7 +22,7 @@ to download the plugin.
 1. Download the plugin archive and expand it (you've likely already done this).
 2. Put the 'linktothispage' directory into your wp-content/plugins/ directory.
 3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for LinkToThisPage.
-4. (Optional) Use the the customizing tool to choose options for how to display your LinkToThisPage window.
+4. (Coming Soon) Use the options to modify how the plug-in is displayed on each page.
 
 == Stats and Reporting ==
 
@@ -40,10 +40,9 @@ Please direct all questions to linktothispage@intellectualcapitalreport.com
 
 We maintain a list of changes to the LinkToThisPage WordPress plugin and the ShareThis widget here:
 
-http://intellectualcapitalreport.com/wordpress
+http://intellectualcapitalreport.com/linktothispage-wordpress-plugin
 
 
 == Screenshots ==
 
-1. A view of the ShareThis button on your posts
-2. The configuration page for the plugin
+None at this time.
