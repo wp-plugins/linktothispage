@@ -3,13 +3,13 @@ Tags: bookmarks, links, SEO
 Contributors: IntelCapRep, IntellectualCapitalReport.com
 Requires at least: 2.7
 Tested up to: 2.7
-Stable tag: 1.0
+Stable tag: 1.1
 
-LinkToThisPage plugin shows users a link to your post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
+LinkToThisPage (BETA) plugin shows users a link to your page or post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
 
 == Description ==
 
-The LinkToThisPage WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your post for their own web site.
+The LinkToThisPage WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site.
 
 Be sure to start here:
 
@@ -38,9 +38,11 @@ Please direct all questions to linktothispage@intellectualcapitalreport.com
 
 == What's Changed? ==
 
-We maintain a list of changes to the LinkToThisPage WordPress plugin and the ShareThis widget here:
+Version 1.1
+No functional changes, however, changed for the descriptive information.  Most notably, indicated "BETA" status.
 
-http://intellectualcapitalreport.com/linktothispage-wordpress-plugin
+Version 1.0
+Initial public beta released.  Just install and activate.  No options.
 
 
 == Screenshots ==
