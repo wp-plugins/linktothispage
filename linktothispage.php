@@ -19,7 +19,7 @@
 /*
 Plugin Name: LinkToThisPage
 Plugin URI: http://intellectualcapitalreport.com/linktothispage-wordpress-plugin
-Description: The LinkToThisPage WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your post for their own web site. Questions on configuration, etc.? Make sure to read the README.
+Description: The LinkToThisPage (BETA) WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site. Questions on configuration, etc.? Make sure to read the README.
 Version: 1.0
 Author: IntelCapRep
 Author URI: http://intellectualcapitalreport.com
