@@ -3,7 +3,7 @@ Tags: bookmarks, links, SEO
 Contributors: IntelCapRep, IntellectualCapitalReport.com
 Requires at least: 2.7
 Tested up to: 2.7
-Stable tag: 1.1
+Stable tag: 1.0
 
 LinkToThisPage (BETA) plugin shows users a link to your page or post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
 
@@ -37,9 +37,6 @@ None at this time.
 Please direct all questions to linktothispage@intellectualcapitalreport.com
 
 == What's Changed? ==
-
-Version 1.1
-No functional changes, however, changed for the descriptive information.  Most notably, indicated "BETA" status.
 
 Version 1.0
 Initial public beta released.  Just install and activate.  No options.
