@@ -1,8 +1,8 @@
 <?php
 // LinkToThisPage
 //
-// Copyright (c) 2008 IntellectualCapitalReport
-// http://intellectualcapitalreport.com/linktothispage-wordpress-plugin
+// Copyright (c) 2008 Creative Real Estate Investing Guide
+// http://CreativeRealEstateInvestingGuide.com/linktothispage-wordpress-plugin
 //
 // Released under the GPL license
 // http://www.opensource.org/licenses/gpl-license.php
@@ -18,11 +18,11 @@
 
 /*
 Plugin Name: LinkToThisPage
-Plugin URI: http://intellectualcapitalreport.com/linktothispage-wordpress-plugin
-Description: The LinkToThisPage (BETA) WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site. Questions on configuration, etc.? Make sure to read the README.
-Version: 1.0
-Author: IntelCapRep
-Author URI: http://intellectualcapitalreport.com
+Plugin URI: http://CreativeRealEstateInvestingGuide.com/linktothispage-wordpress-plugin
+Description: The Link To This Page (BETA) WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site. Questions on configuration, etc.? Make sure to read the README.
+Version: 1.1
+Author: Mike Ginese
+Author URI: http://CreativeRealEstateInvestingGuide.com
 */
 
 load_plugin_textdomain('linktothispage');
@@ -73,7 +73,7 @@ function lttp_widget() {
 	$linktothispage .= '</div>' . "\n";
 	$linktothispage .= '</div>' . "\n";
 	$linktothispage .= '<div class="lttp_footer" id="lttp_footer">' . "\n";
-	$linktothispage .= 'Get a copy of <a href="http://intellectualcapitalreport.com/linktothispage-wordpress-plugin" title="LinkToThisPage">LinkToThisPage</a> here.' . "\n";
+	$linktothispage .= 'Get LinkToThisPage from the <a href="http://creativerealestateinvestingguide.com/linktothispage-wordpress-plugin" title="LinkToThisPage">Creative Real Estate Investing Guide</a>.' . "\n";
 	$linktothispage .= '</div>' . "\n";
 
 	return $linktothispage;
