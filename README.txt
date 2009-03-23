@@ -1,19 +1,19 @@
 === LinkToThisPage ===
-Tags: bookmarks, links, SEO
-Contributors: IntelCapRep, IntellectualCapitalReport.com
+Tags: bookmarks, links, SEO, link to this page
+Contributors: Mike Ginese, CreativeRealEstateInvestingGuide.com
 Requires at least: 2.7
 Tested up to: 2.7
-Stable tag: 1.0
+Stable tag: 1.1
 
-LinkToThisPage (BETA) plugin shows users a link to your page or post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
+LinkToThisPage (BETA) plugin places a link to this page item on each page or post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
 
 == Description ==
 
-The LinkToThisPage WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site.
+The Link To This Page WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site.
 
 Be sure to start here:
 
-http://intellectualcapitalreport.com/linktothispage-wordpress-plugin
+http://CreativeRealEstateInvestingGuide.com/linktothispage-wordpress-plugin
 
 to download the plugin.
 
@@ -34,12 +34,15 @@ None at this time.
 
 == Support ==
 
-Please direct all questions to linktothispage@intellectualcapitalreport.com
+Please direct all questions to linktothispage@CreativeRealEstateInvestingGuide.com
 
 == What's Changed? ==
+Version 1.1
+- Changes some wording in the readme file to make it easier to find on Wordpress.  
+- We changed domains, so the domain was updated.
 
 Version 1.0
-Initial public beta released.  Just install and activate.  No options.
+- Initial public beta released.  Just install and activate.  No options.
 
 
 == Screenshots ==
