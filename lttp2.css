@@ -1,0 +1,53 @@
+/* LinkToThisPage */
+#lttp_header {
+	text-align: left;
+	vertical-align: middle;
+	width: 400px;
+	font-size: 13px;
+	display: none;
+}
+
+#lttp_header2 {
+	text-align: left;
+	vertical-align: middle;
+	width: 400px;
+	font-size: 13px;
+}
+
+#lttp_box {
+	width: 400px
+}
+
+#lttp_right {
+	font-family: arial;
+	font-size: 11px;
+	float: left;
+	width:200px;
+	text-align: right;
+}
+#lttp_left {
+	font-family: arial;
+	font-size: 11px;
+	float: left;
+	width:200px;
+	text-align: left;
+}
+
+#lttp_dialog {
+    position: relative;
+	clear: both;
+    border: 1px solid black;
+    background-color: white;
+	overflow: hidden;		
+	font-family: arial;
+	font-size: 7px;
+}
+a.lttp_link {
+	text-decoration: none;
+}
+
+#lttp_footer {
+	text-align: right;
+	width: 400px;
+	font-size: 9px;
+}
