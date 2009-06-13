@@ -1,22 +1,23 @@
-=== LinkToThisPage ===
-Tags: bookmarks, links, SEO, link to this page
+=== Site Table of Contents ===
+Tags: navigation, links, SEO, table of contents, site map
 Contributors: Mike Ginese, CreativeRealEstateInvestingGuide.com
 Requires at least: 2.7
 Tested up to: 2.7
-Stable tag: 1.2
+Stable tag: 0.1
 
-LinkToThisPage plugin places a link to this page item on each page or post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
+Site Table of Contents plugin allows a users to easily create a page that lists all posts and their respective categories in an easy to use and dynamic way.
 
 == Description ==
 
-The Link To This Page WordPress plugin provides a quick, simple to use, and unobtrusive way for users to obtain a link to your page or post for their own web site.
+Site Table of Contents plugin allows a users to easily create a page that lists all posts and their respective categories in an easy to use and dynamic way.
 
 == Installation ==
 
 1. Download the plugin archive and expand it (you've likely already done this).
-2. Put the 'linktothispage' directory into your wp-content/plugins/ directory.
-3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for LinkToThisPage.
-4. Use the options to modify how the plug-in is displayed on each page.
+2. Put the 'site_table_of_contents' directory into your wp-content/plugins/ directory.
+3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for Site Table of Contents.
+4. Use the options to modify how the plug-in is displayed.
+5. Place <!--site_toc--> where you would like the table of contents to appear.  Use the HTML editor when placing the code.
 
 == Stats and Reporting ==
 
@@ -31,17 +32,8 @@ None at this time.
 Please direct all questions to linktothispage@CreativeRealEstateInvestingGuide.com
 
 == What's Changed? ==
-Version 1.2
-- Added Options and admin panel.
-- Added the ability to choose whether the link box is displayed on just pages, just posts, or both.
-- Added the ability to choose whether to show/hide the link box by default.
-
-Version 1.1
-- Changed some wording in the readme file to make it easier to find on Wordpress.  
-- We changed domains, so the domain was updated.
-
-Version 1.0
-- Initial public beta released.  Just install and activate.  No options.
+Version 0.1
+- Initial public beta released.  Just install and activate.  Change options as required.
 
 
 == Screenshots ==
