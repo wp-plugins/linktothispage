@@ -3,7 +3,7 @@ Tags: bookmarks, links, SEO, link to this page
 Contributors: Mike Ginese, CreativeRealEstateInvestingGuide.com
 Requires at least: 2.7
 Tested up to: 2.7
-Stable tag: 1.2
+Stable tag: 1.3
 
 LinkToThisPage plugin places a link to this page item on each page or post with your chosen keywords that can be copied and linked from their own web site.  It is an easy way to encourage back-links.
 
@@ -31,6 +31,9 @@ None at this time.
 Please direct all questions to linktothispage@CreativeRealEstateInvestingGuide.com
 
 == What's Changed? ==
+Version 1.3
+- Fixed bug where links appeared on home page.  This does not work correctly yet, so it has been removed from the home page.
+
 Version 1.2
 - Added Options and admin panel.
 - Added the ability to choose whether the link box is displayed on just pages, just posts, or both.
